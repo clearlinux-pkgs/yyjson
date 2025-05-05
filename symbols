@@ -11,6 +11,9 @@ libyyjson.so.0:yyjson_alc_dyn_free
 libyyjson.so.0:yyjson_alc_dyn_new
 libyyjson.so.0:yyjson_alc_pool_init
 libyyjson.so.0:yyjson_doc_mut_copy
+libyyjson.so.0:yyjson_incr_free
+libyyjson.so.0:yyjson_incr_new
+libyyjson.so.0:yyjson_incr_read
 libyyjson.so.0:yyjson_locate_pos
 libyyjson.so.0:yyjson_merge_patch
 libyyjson.so.0:yyjson_mut_doc_free
